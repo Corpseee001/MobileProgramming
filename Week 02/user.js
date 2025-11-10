@@ -1,8 +1,3 @@
-function toggleContainer1() {
-  const text = document.getElementById("toggleText1");
-  const button = event.target;
-}
-
 // Addition
 function showSum() {
   let chris = 5;
